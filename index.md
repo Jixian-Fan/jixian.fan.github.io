@@ -1,7 +1,24 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-![Image of fast.ai logo](images/logo.png)
+## My temp CV
 
-## This is a title
+ [link to my current file](https://www.fast.ai).
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+
+Hello and welcome to this blog. My name is Jixian Fan and you can find my email here Jixian.fan@outlook.com
+
+
+The purpose of this blog is simply to document my journey.
+
+
+#### RESEARCH INTERESTS
+
+Mechatronic, Electronic and Communication Engineering
+
+
+#### EDUCATION
+
+Graduate Certificate in Master of Electrical Engineering Science, The University of Queensland 
+
+Graduate Certificate in Bachelor of Engineering honour, Double Major in Electronic and Communication Systems; Mechatronic Systems, The Australia National University      	
+
+Graduate Certificate in Western Australian Certificate of education,  Aidi High School
